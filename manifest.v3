@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="disabled">yes</value>
+  <value name="enabled">yes</value>
   <value name="version">10.15.0.0.674</value>
   <value name="name">Default</value>
   <value name="build">674</value>
